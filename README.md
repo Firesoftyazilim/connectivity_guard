@@ -3,6 +3,10 @@
 **Connectivity Guard** is a Flutter package designed to monitor the device's internet connection in real-time. It displays your custom widget (`child`) when the device is online and shows a predefined "No Internet Connection" dialog when offline.
 
 ---
+## Preview
+![connectivity_guard](https://raw.githubusercontent.com/Firesoftyazilim/connectivity_guard/refs/heads/main/ss.gif)
+
+---
 
 ## Features ✨
 - Monitors internet connectivity in real-time.
