@@ -64,15 +64,25 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+
 ---
 
+## Dependencies 🎨
+ connectivity_plus
+---
 
-## Customization 🎨
+---
+
+## Customization 🎨
 Dialog Customization:
 You can customize the "No Internet Connection" dialog by modifying the _buildNoConnectionDialog method in ConnectionAwareWidget.
 
+---
+
 ## License 📄
 This package is licensed under the MIT License. See the LICENSE file for more information.
+
+---
 
 ## Author 👨‍💻
 Developed by HASAN KOÇ.

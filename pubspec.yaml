@@ -1,7 +1,7 @@
 name: connectivity_guard
 description: "Internet connection guard"
-version: 0.0.1
-homepage: #github adresi
+version: 0.0.4
+homepage: https://github.com/Firesoftyazilim/connectivity_guard
 
 authors:
   - Firesoft<firesoftyazilim@gmail.com>
