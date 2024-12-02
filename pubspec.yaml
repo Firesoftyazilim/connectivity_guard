@@ -5,6 +5,9 @@ homepage: https://github.com/Firesoftyazilim/connectivity_guard
 
 authors:
   - Firesoft<firesoftyazilim@gmail.com>
+
+publish_to: https://pub.dev/publishers/firesoftyazilim.com
+
 #flutter packages pub publish
 
 environment:
